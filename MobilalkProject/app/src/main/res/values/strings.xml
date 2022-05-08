@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">ConcertTicketShop</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="username">Username</string>
+    <string name="e_mail_adress">E-mail adress</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="cancel">Cancel</string>
+    <string name="loginguest">Login as guest</string>
+    <string name="log_in_with_google">Log in with Google</string>
+    <string name="band_name">Band Name</string>
+    <string name="band_info">Band Info</string>
+    <string name="reserve_ticket">Reserve Ticket</string>
+    <string name="delete">Delete</string>
+
+
+    <string-array name="band_names">
+        <item>Power Wolf</item>
+        <item>Bring Me The Horizon</item>
+        <item>Hollywood Undead</item>
+        <item>Sabaton</item>
+        <item>Simple Plan</item>
+        <item>Sum 41</item>
+        <item>Thousand Foot Krutch</item>
+        <item>Depresszió</item>
+        <item>Skillet</item>
+        <item>Three Days Grace</item>
+    </string-array>
+
+    <string-array name="band_info">
+        <item>A German power metal band.</item>
+        <item>A British rock band.</item>
+        <item>An American nu metal and rap rock band.</item>
+        <item>A Swedish power and heavy metal band.</item>
+        <item>A Canadian pop punk band.</item>
+        <item>A Canadian rock band.</item>
+        <item>A Canadian christian rock band.</item>
+        <item>A Hungarian rock and metal band.</item>
+        <item>An American christian and hard rock band.</item>
+        <item>A Canadian hard rock band.</item>
+    </string-array>
+
+    <array name="band_images">
+        <item>@drawable/powerwolf_cover</item>
+        <item>@drawable/bringmethehorizon</item>
+        <item>@drawable/hoolywoodundead</item>
+        <item>@drawable/sabaton</item>
+        <item>@drawable/simpleplan</item>
+        <item>@drawable/sum41</item>
+        <item>@drawable/thousandfootkrutch</item>
+        <item>@drawable/depresszio</item>
+        <item>@drawable/skillet_unleashed_tour</item>
+        <item>@drawable/threedaysgrace</item>
+    </array>
+
+    <array name="ticket_price">
+        <item>11000 Ft</item>
+        <item>10000 Ft</item>
+        <item>13000 Ft</item>
+        <item>13000 Ft</item>
+        <item>11000 Ft</item>
+        <item>12000 Ft</item>
+        <item>9000 Ft</item>
+        <item>9000 Ft</item>
+        <item>13000 Ft</item>
+        <item>12000 Ft</item>
+    </array>
+</resources>

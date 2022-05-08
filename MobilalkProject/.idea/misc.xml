@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MobilalkProject/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/MobilalkProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/MobilalkProject/app/src/main/res/drawable/search_icon.xml" value="0.1" />
+        <entry key="..\:/MobilalkProject/app/src/main/res/drawable/tickets_icon.xml" value="0.1" />
+        <entry key="..\:/MobilalkProject/app/src/main/res/drawable/view_grid_icon.xml" value="0.1" />
+        <entry key="..\:/MobilalkProject/app/src/main/res/drawable/view_row_icon.xml" value="0.1" />
+        <entry key="..\:/MobilalkProject/app/src/main/res/layout-land/activity_main.xml" value="0.33" />
+        <entry key="..\:/MobilalkProject/app/src/main/res/layout-land/activity_register.xml" value="0.33513513513513515" />
+        <entry key="..\:/MobilalkProject/app/src/main/res/layout-land/concert_list.xml" value="0.5" />
+        <entry key="..\:/MobilalkProject/app/src/main/res/layout/activity_concert_list.xml" value="0.1" />
+        <entry key="..\:/MobilalkProject/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/MobilalkProject/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/MobilalkProject/app/src/main/res/layout/concert_list.xml" value="0.1762917933130699" />
+        <entry key="..\:/MobilalkProject/app/src/main/res/layout/custom_ticket_menu.xml" value="1.0" />
+        <entry key="..\:/MobilalkProject/app/src/main/res/menu/menu.xml" value="0.67" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

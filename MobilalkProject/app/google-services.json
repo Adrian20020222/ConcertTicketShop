@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "158415307142",
+    "project_id": "ticketshop-b72e6",
+    "storage_bucket": "ticketshop-b72e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158415307142:android:412d2f1233dcd64dd12c07",
+        "android_client_info": {
+          "package_name": "com.example.concertticketshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158415307142-st5d1d77h1skirmtqlsbuft7jmoetqhh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.concertticketshop",
+            "certificate_hash": "484a6757107149593e545ad0a1cfb759fb886bdf"
+          }
+        },
+        {
+          "client_id": "158415307142-89rv95bskspffnadiqls4f966kceojn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD4Pg5X98NCE5QFc30B4nVYgiuA4Qr5_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158415307142-89rv95bskspffnadiqls4f966kceojn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
