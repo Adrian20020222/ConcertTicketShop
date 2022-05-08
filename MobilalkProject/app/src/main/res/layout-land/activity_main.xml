@@ -20,7 +20,7 @@
                 android:layout_marginTop="10dp"
                 android:ems="10"
                 android:hint="@string/name"
-                android:inputType="text"
+                android:inputType="textEmailAddress"
                 android:minHeight="48dp"
                 tools:layout_editor_absoluteX="16db" />
 
